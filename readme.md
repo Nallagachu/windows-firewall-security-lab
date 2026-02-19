@@ -66,7 +66,7 @@ A firewall is both a prevention and enforcement control. However, enabling it is
 ## Created Log Directory
 
 ```
-C:\Users\LENOVO\Downloads\FirewallLogs
+C:\Users\Username\Downloads\FirewallLogs
 ```
 
 ## Enabled Logging
